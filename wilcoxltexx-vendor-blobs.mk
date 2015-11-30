@@ -24,11 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wilcoxltexx/proprietary/bin/thermald:system/bin/thermald \
     vendor/samsung/wilcoxltexx/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libSHIMDivxDrm.so:system/lib/libSHIMDivxDrm.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/samsung/wilcoxltexx/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/samsung/wilcoxltexx/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/samsung/wilcoxltexx/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
