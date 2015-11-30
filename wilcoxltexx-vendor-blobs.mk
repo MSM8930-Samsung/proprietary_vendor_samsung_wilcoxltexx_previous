@@ -63,7 +63,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wilcoxltexx/proprietary/lib/libcordon.so:system/lib/libcordon.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
+    vendor/samsung/wilcoxltexx/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/samsung/wilcoxltexx/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
