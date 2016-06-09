@@ -49,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wilcoxltexx/proprietary/lib/libacdapi_azi.so:system/lib/libacdapi_azi.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
-    vendor/samsung/wilcoxltexx/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/samsung/wilcoxltexx/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/wilcoxltexx/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/wilcoxltexx/proprietary/bin/rmt_storage:system/bin/rmt_storage \
